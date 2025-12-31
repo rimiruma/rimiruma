@@ -22,3 +22,7 @@ I'm a Front End Web developer who is passionate about making error-free websites
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rimiruma/contributions?format=svg&private=false)
 
+![GitHub metrics](https://metrics.lecoq.io/rimiruma)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rimiruma) 
+
